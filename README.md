@@ -12,4 +12,4 @@ After that, run the app using Django manage.py.
 
 `python manage.py runserver`
 
-Access the homepage on `http://localhost:800`
+Access the homepage on `http://localhost:8000`
