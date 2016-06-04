@@ -1,6 +1,15 @@
-This is the official repo for the Scotch `Building your first app with Python/Django`
-tutorial.
-
 ## Getting started
 
-Clone the repository
+Clone the repository.
+
+## Running the app
+
+Install all the requirements in your environment.
+
+`pip install -r requirements.txt`
+
+After that, run the app using Django manage.py.
+
+`python manage.py runserver`
+
+Access the homepage on `http://localhost:800`
